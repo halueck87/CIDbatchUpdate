@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObject xmlns="http://soap.sforce.com/2006/04/metadata">
+    <description>Holds values that should be excluded from the integration batch import process</description>
+    <label>AIM Broker Exclusion</label>
+    <pluralLabel>AIM Broker Exclusions</pluralLabel>
+    <visibility>Public</visibility>
+</CustomObject>
